@@ -5,4 +5,4 @@ This is a navbar with dropdown effect
 2. CSS3
 
 # Follow me
-Twitter - [@frd_chizim](https://www.twitter.com/fred_chizim)
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim)
